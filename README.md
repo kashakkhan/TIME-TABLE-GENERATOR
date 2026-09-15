@@ -1,6 +1,6 @@
 # Timetable Generator (C++)
 
-A simple console-based timetable generator written in C++. It takes the number
+It is a  simple console-based timetable generator written in C++. It takes the number
 of working days per week, periods per day, and a list of subjects with their
 required periods per week, then generates a weekly timetable avoiding the same
 subject repeating in consecutive periods on the same day.
