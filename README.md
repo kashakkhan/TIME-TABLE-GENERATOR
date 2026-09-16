@@ -23,3 +23,10 @@ You will be prompted for:
 - Number of subjects, and periods per week for each
 
 The program prints the generated timetable grid and an allocation summary.
+
+
+
+Kashak Khan 
+Mtech(Integrated)
+Noida Intitute of Engineering and Technology 
+Computer science and engineering 
